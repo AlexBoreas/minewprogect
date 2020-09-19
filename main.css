@@ -1,5 +1,12 @@
+.for_text {
+    margin: 10px;
+    text-align: center;
+    font-size: 25px;
+    color: #696868;
+}
+
 .for_img {
-    margin: 60px 300px;
+    margin: 70px 320px 15px;
 }
 
 .for_button_a {
@@ -18,13 +25,24 @@
     -webkit-text-fill-color : red;
 }
 
+.for_button_2 {
+    margin: 20px 490px;
+    font-size: 50px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    border-color: red;
+    border-style: solid;
+    border-width: 7px;
+    box-shadow: 7px 7px 5px rgba(0,0,0,0.6);
+    -webkit-text-fill-color : red;
+}
 
 .title_wrapper2 {
     padding: 20px;
     width: 1440px;
     margin: 0px auto 60px;
     background-color: white;
-    height: 100vh;
+    height: 110vh;
 }
 
 .title2 {
